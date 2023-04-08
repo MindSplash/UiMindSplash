@@ -1,2 +1,3 @@
 # UiMindSplash
-There will be an ui here
+There will be an ui for "MindSplash" here!
+
